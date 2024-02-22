@@ -1,0 +1,58 @@
+
+
+body {
+    display: flex;
+    margin: 0;
+
+}
+
+
+
+
+.hero-image {
+ background-image: url("./images/photo-1585202900225-6d3ac20a6962.jpg");
+ background-position: center;
+ background-repeat:no-repeat;
+ background-size: cover;
+ width: 40vw;
+ height: 100vh;
+ position: relative;
+
+}
+
+.logo-section {
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 30vh;
+}
+
+
+.odin-text {
+    font-size: 75px;
+    color: white;
+    font-family: "Skranji";
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.odin-logo {
+    width: auto;
+    height: 150px;
+}
+
+.hero-footer {
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 200px;
+
+}
+
+.hero-footer  a {
+    color: white;
+}
+
