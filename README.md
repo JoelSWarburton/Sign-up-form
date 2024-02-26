@@ -6,10 +6,18 @@ The purpose of this project is to showcase more intermediate use of HTML and JS
 by creating a sign-up form that uses different input types, HTML 5 input validation and
 CSS psudoclasses to show when form requirements have and have not been met.
 
-# Outcome
+# Outcomes
 
-TODO
+I creatued a sign-up form to match the image in the solution target file.
 
-# What I learned
+![Odin project's solution for the sign up form](./solution-target/sign-up-form.png =x250)
 
-TODO
+- Used flexbox to handle general page layout.
+- Used git to handle project version control.
+- Tested solution in various browsers to ensure consistency.
+
+# I learned how to...
+
+- use pseudo-classes to create more advance styling options.
+- use HTML 5 input types to handle some form validation.
+- validate form fields with JS.
