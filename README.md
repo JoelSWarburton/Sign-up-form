@@ -10,7 +10,7 @@ CSS psudoclasses to show when form requirements have and have not been met.
 
 I creatued a sign-up form to match the image in the solution target file.
 
-![Odin project's solution for the sign up form](./solution-target/sign-up-form.png =x250)
+![Odin project's solution for the sign up form](./solution-target/sign-up-form.png)
 
 - Used flexbox to handle general page layout.
 - Used git to handle project version control.
